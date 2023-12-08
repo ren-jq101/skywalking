@@ -52,7 +52,7 @@
         <jackson.version>2.13.4</jackson.version>
         <commons-text.version>1.4</commons-text.version>
         <simpleclient.version>0.6.0</simpleclient.version>
-        <apollo.version>1.8.0</apollo.version>
+        <apollo.version>2.2.0</apollo.version>
         <nacos.version>1.4.2</nacos.version>
         <curator.version>4.3.0</curator.version>
         <curator-test.version>2.12.0</curator-test.version>

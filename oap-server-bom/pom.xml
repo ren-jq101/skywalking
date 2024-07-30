@@ -32,8 +32,8 @@
         <log4j.version>2.17.1</log4j.version>
         <google.error_prone_annotations>2.11.0</google.error_prone_annotations>
         <graphql-java-tools.version>13.0.1</graphql-java-tools.version>
-        <graphql-java.version>19.2</graphql-java.version>
-        <graphql-java-extended-scalars.version>18.1</graphql-java-extended-scalars.version>
+        <graphql-java.version>19.11</graphql-java.version>
+        <graphql-java-extended-scalars.version>22.0</graphql-java-extended-scalars.version>
         <okhttp.version>3.14.9</okhttp.version>
         <httpclient.version>4.5.13</httpclient.version>
         <h2.version>2.1.212</h2.version>
